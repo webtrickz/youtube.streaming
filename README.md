@@ -30,11 +30,11 @@ If you want to take full advantage of the opportunities live streaming on YouTub
 
 ## How to Stream Directly from YouTube
 
-Step 1: Go to Youtube.com and log in to your account
-Step 2: Click the camera icon in the top toolbar and select ‘Go Live.’
-Step 3: Choose whether you want to start a stream “Now” or “Later.”
-Step 4: To live stream directly from YouTube, select the ‘Built-in Webcam’ option.
-Step 5: Enter your title and description and set your preferred privacy settings for your YouTube live stream.
-Step 6: Click “Next”YouTube will automatically use your webcam to take a photo for a thumbnail, or you have the option to upload your own. 
-Step 7: Click “Go Live.“
-Step 8: When you’re done, click “End Broadcast” at the bottom of the screen.
+* Step 1: Go to Youtube.com and log in to your account
+* Step 2: Click the camera icon in the top toolbar and select ‘Go Live.’
+* Step 3: Choose whether you want to start a stream “Now” or “Later.”
+* Step 4: To live stream directly from YouTube, select the ‘Built-in Webcam’ option.
+* Step 5: Enter your title and description and set your preferred privacy settings for your YouTube live stream.
+* Step 6: Click “Next”YouTube will automatically use your webcam to take a photo for a thumbnail, or you have the option to upload your own. 
+* Step 7: Click “Go Live.“
+* Step 8: When you’re done, click “End Broadcast” at the bottom of the screen.
